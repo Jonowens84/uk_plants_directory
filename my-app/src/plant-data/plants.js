@@ -52,6 +52,7 @@ const salviaNemorosa = {
   const buxusSempavirensSixtyCM = {
     name: "buxus Sempavirens 60cm Ball",
     commonName: "box",
+    image: "buxus.png",
     family: "buxaceae",
     evergreen: true,
     flower: true,
